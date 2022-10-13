@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "name": "frankline asuza",
+      "email": "frank@gmail.com",
+      "password": "frank@123",
+      "id": 1
+    },
+    {
+      "name": "selin nyawina",
+      "email": "selin@gmail.com",
+      "password": "selin@123",
+      "id": 2
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "peter@123",
+      "name": "peter maragi",
+      "id": 3
+    },
+    {
+      "name": "sh",
+      "email": "sh@gmail.com",
+      "password": "sh@123",
+      "id": 4
+    },
+    {
+      "name": "james",
+      "email": "james@gmail.com",
+      "password": "james@123",
+      "id": 5
+    },
+    {
+      "name": "ken",
+      "email": "ken@gmail.com",
+      "password": "ken@123",
+      "id": 6
+    },
+    {
+      "name": "faith",
+      "email": "faith@gmail.com",
+      "password": "faith@123",
+      "id": 7
+    },
+    {
+      "email": "frank@gmail.com",
+      "password": "frank@123",
+      "name": "frank",
+      "id": 8
+    },
+    {
+      "email": "fr@12",
+      "password": "123",
+      "name": "fr",
+      "id": 9
+    },
+    {
+      "email": "ke@",
+      "password": "123",
+      "name": "ke",
+      "id": 10
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "peter@123",
+      "name": "peter",
+      "id": 11
+    },
+    {
+      "email": "peter@gmail.com",
+      "password": "peter@123",
+      "name": "peter",
+      "id": 12
+    }
+  ],
+  "restaurants": [
+    {
+      "id": 1,
+      "name": "maasai mara",
+      "contact": "07327187645",
+      "address": "mara area 50"
+    },
+    {
+      "id": 2,
+      "name": "joska mala",
+      "contact": "0731872861",
+      "address": "kagundo area 40"
+    },
+    {
+      "id": 3,
+      "name": "KFC",
+      "contact": "073778218",
+      "address": "kenya area 20"
+    },
+    {
+      "name": "jimmy choma bite",
+      "contact": "0818u81791",
+      "address": "menengai road",
+      "id": 4
+    },
+    {
+      "name": "hiton",
+      "address": "nairobi cbd",
+      "contact": "71675481997",
+      "id": 5
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "id": 6
+    },
+    {
+      "name": "",
+      "address": "",
+      "contact": "",
+      "id": 7
+    }
+  ]
+}
